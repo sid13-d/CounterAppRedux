@@ -29,6 +29,7 @@ This project serves as an example of integrating Redux and Redux Toolkit in a Re
 
 The project follows a standard React project structure. The Redux-related files are organized as follows:
 
+```
 project-root
 | public
 │ src
@@ -40,7 +41,7 @@ project-root
 │ │ ├── index.js
 │ │ └── ...
 │ └── ...
-
+```
 
 ## Getting Started
 
